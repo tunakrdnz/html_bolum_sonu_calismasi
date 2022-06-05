@@ -1,2 +1,2 @@
 # html_bolum_sonu_calismasi
-[https://app.patika.dev/](patika.dev linki)
+[patika.dev linki](https://app.patika.dev/)
